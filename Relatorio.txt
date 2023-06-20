@@ -1,5 +1,5 @@
 Nome: João Vitor Florisvaldo Vieira RA: 00241738
-Nome: Felipe koji										RA: 00241738
+Nome: Felipe koji		    RA: 00241738
 
 Trabalho de Estrutura de Dados comandos basicos baseados em comparação, codigo limpo e facil de ser lido
 composição se baseia em for e comparações usando index.
