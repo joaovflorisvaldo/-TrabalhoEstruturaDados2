@@ -1,0 +1,10 @@
+Nome: João Vitor Florisvaldo Vieira RA: 00241738
+Nome: Felipe koji										RA: 00241738
+
+Trabalho de Estrutura de Dados comandos basicos baseados em comparação, codigo limpo e facil de ser lido
+composição se baseia em for e comparações usando index.
+O trabalho possui um menu interativo para inserção de dados tanto de numeros quanto de tamanho dos index
+é um trabalho simpes e funcional usando JOptionPane.
+Um adendo, devido a versões de netBeans  no meu notbook(Ubunto 20.04 LTS) o codigo nao compilou no meu 
+computador(Win10) compilou normal.
+
